@@ -1,0 +1,26 @@
+{
+  "name": "gulp-images-sprite",
+  "version": "1.0.0",
+  "description": "* 연습용",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/star4899/gulp-images-sprite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/star4899/gulp-images-sprite/issues"
+  },
+  "homepage": "https://github.com/star4899/gulp-images-sprite#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp.spritesmith": "^6.9.0"
+  },
+  "dependencies": {
+    "npm": "^6.4.1"
+  }
+}
