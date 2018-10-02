@@ -3,6 +3,11 @@
 * 연습으로 만들어 본....
 
 ```
-// run
-$ gulp
+$npm init
+$npm i gulp -g
+$npm i gulp -D
+$npm i gulp.spritesmith -D
+
+// build
+$gulp
 ```
